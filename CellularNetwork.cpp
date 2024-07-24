@@ -22,3 +22,9 @@ int main()
   cout<<ans<<" \n";
   return (0);
 }
+
+// The question is solved by observing that we have to find the maximum distance of a city 
+// from a tower which can provide network in the city . From the first city we calculate that which
+//  tower is going to provide network in that city.For each possible city we chose the closest
+// tower. Througout this process we keep an answer to store the maximum distance found between
+// city and tower
