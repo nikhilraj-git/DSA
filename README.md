@@ -8,3 +8,4 @@ LINK FOR QUESTIONS
 6. Jagged Swaps - https://codeforces.com/problemset/problem/1896/A
 7. Doremy's Paint - https://codeforces.com/problemset/problem/1890/A
 8. Don't try to count - https://codeforces.com/problemset/problem/1881/A
+9. How much does Daytona cost - https://codeforces.com/problemset/problem/1878/A
