@@ -5,3 +5,4 @@ LINK FOR QUESTIONS
 3. Glass Carving - https://codeforces.com/problemset/problem/527/C
 4. Halloumi Boxes - https://codeforces.com/problemset/problem/1903/A
 5. Cover In Water - https://codeforces.com/problemset/problem/1900/A
+6. Jagged Swaps - https://codeforces.com/problemset/problem/1896/A
