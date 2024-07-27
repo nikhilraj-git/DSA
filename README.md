@@ -6,3 +6,4 @@ LINK FOR QUESTIONS
 4. Halloumi Boxes - https://codeforces.com/problemset/problem/1903/A
 5. Cover In Water - https://codeforces.com/problemset/problem/1900/A
 6. Jagged Swaps - https://codeforces.com/problemset/problem/1896/A
+7. Doremy's Paint - https://codeforces.com/problemset/problem/1890/A
