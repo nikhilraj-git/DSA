@@ -10,3 +10,4 @@ LINK FOR QUESTIONS
 8. Don't try to count - https://codeforces.com/problemset/problem/1881/A
 9. How much does Daytona cost - https://codeforces.com/problemset/problem/1878/A
 10. Goals of victory - https://codeforces.com/problemset/problem/1877/A
+11. Target practice - https://codeforces.com/problemset/problem/1873/C
