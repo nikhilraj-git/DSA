@@ -11,3 +11,5 @@ LINK FOR QUESTIONS
 9. How much does Daytona cost - https://codeforces.com/problemset/problem/1878/A
 10. Goals of victory - https://codeforces.com/problemset/problem/1877/A
 11. Target practice - https://codeforces.com/problemset/problem/1873/C
+12. Ambitious Kid - https://codeforces.com/problemset/problem/1866/A
+13. Sequence Game - https://codeforces.com/problemset/problem/1862/B
